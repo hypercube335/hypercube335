@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @hypercube335
+- 👀 I’m interested in Front-end Web Developing!
+- 🌱 I’m currently learning HTML and CSS. Once that's done, I'll be on to Java Script
+- Thank you:)
